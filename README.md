@@ -1,3 +1,3 @@
 # eljoker_ps
 
-A new Flutter application.
+A new Windows Flutter application.
